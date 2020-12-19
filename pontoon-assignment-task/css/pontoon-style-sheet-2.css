@@ -1,0 +1,153 @@
+.body{
+    margin: 0;
+    
+    
+}
+.headerOne{
+    float: center;
+    background-color:gray;
+    border-style: solid;
+    box-sizing: 100px 50px;
+    border-color: black;
+    position:static;
+    margin: 0px; 
+    flex-shrink:0.2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: White;
+    font-size: 36px;
+    width: 100%;
+    clear: both;
+}
+.headerTwo{
+    float: center;
+    background-color: #977961;
+    border-style: solid;
+    box-sizing: 100px 50px;
+    border-color: palegoldenrod;
+    
+    margin: 0px; 
+    flex-shrink:0.2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: palegoldenrod;
+    font-size: 36px;
+    width: 100%;
+    clear: both;
+}
+.nav-list{
+    text-align: center;
+    margin: 0;
+    margin-left:auto;
+    display: flex;
+    flex-shrink:0.2;
+    clear: both;
+    float: left;
+    align-items:center;
+    width: 100%;
+}
+.nav-list2{
+    float: center;
+    background-color: #977961;
+    border-style: solid;
+    box-sizing: 100px 50px;
+    border-color: palegoldenrod;
+    text-align: center;
+    margin: 0;
+    margin-left:auto;
+    display: flex;
+    flex-shrink:0.2;
+    clear: both;
+    float: left;
+    align-items:center;
+    width: 100%;
+}
+
+.nav-item{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style: none;
+    margin-left:15rem;
+}
+
+.div1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    float: center;
+    background-color:gray;
+    color: White;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+}
+.div2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    float: center;
+    box-sizing: 100px, 50px;
+    background-color:#977961;
+    color: palegoldenrod;
+    border-color: palegoldenrod;
+    border-style: solid;
+    text-align: center;
+}
+
+.indexp1 {
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:gray;
+    margin: 1px; 
+    flex-shrink:0.2;
+    color: White;
+    border-color: black;
+    border-style: solid;
+    text-align: left;
+}
+.howtoplayp1 {
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:gray;
+    margin: 1px; 
+    flex-shrink:0.2;
+    color: White;
+    border-color: black;
+    border-style: solid;
+}
+.howtoplayp2{
+    float:left;
+    background-position: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:gray;
+    margin: 1px; 
+    flex-shrink:0.2;
+    color: White;
+    border-color: black;
+    border-style: solid;
+    text-align: left;
+}
+.siteinfop1 {
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color:gray;
+    margin: 1px; 
+    flex-shrink:0.2;
+    color: White;
+    border-color: black;
+    border-style: solid;
+    text-align:left;
+}
+.href {
+color: white;
+text-decoration: none;
+
+}
+
+
+
